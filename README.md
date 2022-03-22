@@ -1,4 +1,4 @@
-# MUJ - My First Unity Game
+# MUJ - nity Game
 My first game made with Unity
 [!Entry Screen](muj.png?raw=true)
 # Game Objectives:
