@@ -17,4 +17,4 @@ Play with arrow buttons.
 You need to reach the end of the map without hitting the pipes.
 ### Game Controls:
 Jump with "space" button.
-# You can download the game from MUJ_seup.rar
+# You can download the game from MUJ_setup.rar
