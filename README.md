@@ -1,6 +1,8 @@
 # MUJ - My Unity Game
 My first game made with Unity
+
 <img src = "images/1.png" width = 300> <img src = "images/2.jpg" width = 300>
+
 # Game Objectives:
 
 ## Main Game:
